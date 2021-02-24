@@ -1,0 +1,4 @@
+baseURL = "http://gersacapoem-favcara38.vercel.app"
+languageCode = "en-us"
+title = "Lovely Poems For Life"
+theme = "hugo-theme-minos"
